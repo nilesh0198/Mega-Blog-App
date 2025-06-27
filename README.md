@@ -1,7 +1,7 @@
 # MegaBlog 📝
 
 A modern, full-featured blog application built with React, Redux Toolkit, and Appwrite. MegaBlog provides a complete blogging platform with user authentication, rich text editing, and responsive design.
-
+- **Live link** [Mega-Blog-App](https://mega-blog-bay-two.vercel.app/)
 ## 🌟 Features
 
 - **User Authentication**: Secure registration and login system
@@ -36,7 +36,7 @@ A modern, full-featured blog application built with React, Redux Toolkit, and Ap
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/home.png)
 *Clean, modern homepage displaying featured blog posts*
 
 ### Login Page
@@ -50,10 +50,6 @@ A modern, full-featured blog application built with React, Redux Toolkit, and Ap
 ### All Posts View
 ![All Posts](./screenshots/all-posts.png)
 *Grid layout showing all published blog posts*
-
-### Individual Post View
-![Post View](./screenshots/post-view.png)
-*Detailed view of individual blog posts with rich content*
 
 ### Mobile Responsive
 ![Mobile View](./screenshots/mobile.png)
@@ -239,16 +235,13 @@ npm run build
 - **CORS**: Properly configured cross-origin requests
 - **Environment Variables**: Sensitive data protection
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Nilesh Kumar**
+- GitHub: [@nilesh0198](https://github.com/nilesh0198)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nilesh0198)
+- Email: nilesh0051bgs@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -265,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help, please:
-1. Check the [Issues](https://github.com/yourusername/megablog/issues) page
+1. Check the [Issues](https://github.com/nilesh0198/mega-blog-app/issues) page
 2. Create a new issue if your problem isn't already reported
 3. Reach out via email or social media
 

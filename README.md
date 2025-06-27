@@ -64,7 +64,7 @@ A modern, full-featured blog application built with React, Redux Toolkit, and Ap
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/megablog.git
+git clone https://github.com/nilesh0198/megablog.git
 cd megablog
 ```
 
